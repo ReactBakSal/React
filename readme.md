@@ -42,7 +42,7 @@
 - 4장 (이벤트 처리) 까지 훑어보기
 - 컴포넌트 개념과 이벤트 처리 개념을 숙지하기 위한 [TodoList](https://github.com/ReactBakSal/todo-list-example) 구현해보기
 
-  컴포넌트 다이어그램
+  > 컴포넌트 다이어그램
 
     <div><img width="200" src="https://user-images.githubusercontent.com/7090906/68119496-37c59500-ff46-11e9-8275-f142f10912d5.png"></div>
 
